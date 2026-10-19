@@ -7,7 +7,7 @@
 👯 I'm looking to collaborate on smart-home integrations and DIY IoT hardware<br>
 🤝 I'm looking for help with OpenWA / WhatsApp automation edge cases<br>
 💬 Ask me about Home Assistant, homelab networking, Raspberry Pi projects, 3D printing<br>
-📫 How to reach me: [[LinkedIn](https://www.linkedin.com/in/reachmihirpatel/)]<br>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reachmihirpatel/)<br>
 ⚡ Fun fact: my lawn sprinklers run on a Raspberry Pi ([diy-smart-sprinkler](https://github.com/nomi25home/diy-smart-sprinkler))
 
 # 🌍 Open Source Contributions:
@@ -25,4 +25,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=nomi25home&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nomi25home&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nomi25home&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
