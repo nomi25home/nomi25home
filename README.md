@@ -1,7 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mihir</h1>
-<h3 align="center">Engineering leader by day, homelab and Home Assistant tinkerer by night</h3>
+<h2 align="left">Hi 🙋🏻‍♂️, I'm Mihir</h2>
 
-# 💫 About Me:
+**Engineering leader by day, homelab and Home Assistant tinkerer by night**
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nomi25home/nomi25home/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nomi25home/nomi25home/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nomi25home/nomi25home/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+### 💫 About Me
 🔭 I'm currently working on Home Assistant integrations, including [homeassistant-openwa-whatsapp](https://github.com/nomi25home/homeassistant-openwa-whatsapp), which sends and receives WhatsApp messages in HA<br>
 🌱 I'm currently learning infrastructure-as-code, Proxmox automation and self-hosted AI pipelines<br>
 👯 I'm looking to collaborate on smart-home integrations and DIY IoT hardware<br>
@@ -10,7 +21,7 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reachmihirpatel/)<br>
 ⚡ Fun fact: my lawn sprinklers run on a Raspberry Pi ([diy-smart-sprinkler](https://github.com/nomi25home/diy-smart-sprinkler))
 
-# 🌍 Open Source Contributions:
+### 🌍 Open Source Contributions
 
 **[Home Assistant](https://github.com/home-assistant)**: open-source home automation platform<br>
 [![Home Assistant merged PRs](https://img.shields.io/github/issues-search?query=org%3Ahome-assistant%20is%3Apr%20is%3Amerged%20author%3Anomi25home&label=merged%20PRs&color=41BDF5&logo=home-assistant&logoColor=white&style=for-the-badge)](https://github.com/pulls?q=org%3Ahome-assistant+is%3Apr+author%3Anomi25home)
@@ -18,10 +29,54 @@
 **[Yuvomi](https://github.com/ulsklyc/yuvomi)**: self-hosted family organizer (calendar, tasks, contacts, household)<br>
 [![Yuvomi merged PRs](https://img.shields.io/github/issues-search?query=repo%3Aulsklyc%2Fyuvomi%20is%3Apr%20is%3Amerged%20author%3Anomi25home&label=merged%20PRs&color=6E40C9&logo=github&logoColor=white&style=for-the-badge)](https://github.com/ulsklyc/yuvomi/pulls?q=is%3Apr+author%3Anomi25home)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nomi25home&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nomi25home&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nomi25home&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💻 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/homeassistant" height="30" alt="home assistant logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberry pi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eclipsemosquitto" height="30" alt="mosquitto logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/zigbee/EB0443" height="30" alt="zigbee logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pihole" height="30" alt="pi-hole logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="30" alt="cloudflare logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="30" alt="mariadb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ffmpeg" height="30" alt="ffmpeg logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bitwarden" height="30" alt="bitwarden logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="swagger logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717/white" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
+</div>
+
+###
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=nomi25home&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=nomi25home&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nomi25home&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
